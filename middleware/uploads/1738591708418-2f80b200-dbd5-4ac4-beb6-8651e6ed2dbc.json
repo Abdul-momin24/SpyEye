@@ -1,0 +1,9 @@
+{
+  "Organisation": "McAfee",
+  "Technologies": [
+    "Secure Web Gateway",
+    "casb",
+    "file_integrity_monitoring",
+    "vpn"
+  ]
+}
