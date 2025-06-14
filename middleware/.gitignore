@@ -1,2 +1,33 @@
+# === Node.js ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 .env
-node_modules
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+ENV/
+env/
+
+# === Frontend (Vite, Tailwind, etc.) ===
+dist/
+build/
+
+# === Editor / System files ===
+.vscode/
+.DS_Store
+Thumbs.db
+
+# === Uploads / Runtime Files ===
+uploads/
+*.log
+
+# === Jupyter (if any) ===
+.ipynb_checkpoints/
+
+.vscode/
