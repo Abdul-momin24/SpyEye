@@ -31,3 +31,7 @@ uploads/
 .ipynb_checkpoints/
 
 .vscode/
+
+.uploads
+
+yarn.lock
